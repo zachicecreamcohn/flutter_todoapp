@@ -19,12 +19,14 @@ export PATH="$PATH:$HOME/.pub-cache/bin"
 ## Open the iphone simulator
 1. Run ```open -a Simulator``` in the terminal
 
+## The coding part
+- All of your coding will be in the ```lib``` folder
+- Run the app by typing ```flutter run``` while in the ```todoapp``` directory
 
-## Create the app
+---
+
+## What I did to create the app
 1. Run this in your terminal to create a new flutter app: ```flutter create <my_app>```. Change ```<my_app>``` to whatever you want to call the app
 2. ```cd``` into the folder that has been automatically created. 
 3. To run the app, make sure you're in the new directory that was created and run: ```flutter run```
 
-
-## The coding part
-- All of your coding will be in the ```lib``` folder
